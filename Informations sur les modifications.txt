@@ -1,0 +1,18 @@
+Bonjour Madame.
+Voici donc le projet Urban Marginal auquel j'ai appliqué les modifications suivantes :
+-Changement des assets des personnages ainsi que leur nombre (Il y a désormais 4 aliens + le prédator).
+-Changement de la fenêtre choix joueur : Visuel différent (Réalisé sur Paint3D :') )
+-Changement de l'arène : dimensions + visuel.
+-Changement des différents sons liés au jeu.
+-Animation d'attaque différente.
+-Ajout de pièges : 
+	-Position fixe.
+	-Nombre : 4.
+	-Dégâts : 5.
+	-Les joueurs ne peuvent pas mourir d'un piège (ils restent à 1hp) afin de favoriser le mode prédator.
+	-Une fois qu'un joueur rentre en collision avec un piège, ce dernier est désactivé pendant 5s afin que le joueur ait le temps de s'en aller.
+-Ajout du mode Predator :
+	-Lorsqu'un joueur tue un adversaire, il obtient un nouveau "skin" et devient le "Predator".
+	-Ses dégâts sont multipliés par 2.
+	-Sa vie est remontée à MAXVIE * 2 (sauf s'il avait déjà + de vie).
+	-Il ne peut y avoir qu'un seul Predator à la fois ce qui oblige les autres joueurs à se concentrer sur le Predator afin de lui voler l'avantage.
