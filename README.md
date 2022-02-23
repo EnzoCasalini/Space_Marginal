@@ -14,6 +14,9 @@ Ce jeu est un TP qui m'a servi de projet pour mon module Java.
 
 ## Screenshots
 
+### Client/serveur
 ![alt text](https://github.com/EnzoCasalini/IMG/blob/main/Space_Marginal1.png?raw=true)
+### Système de tir
 ![alt text](https://github.com/EnzoCasalini/IMG/blob/main/Space_Marginal2.png?raw=true)
+### Mode prédateur
 ![alt text](https://github.com/EnzoCasalini/IMG/blob/main/Space_Marginal3.png?raw=true)
